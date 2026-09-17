@@ -1,0 +1,9 @@
+Name: Aarav Mehta
+Customer Name: Aarav Mehta
+Customer Type: Individual
+Document Type: Passport
+Country: India
+DOB: 14 Aug 1988
+Address: New Delhi, India
+Occupation: Business owner
+Screening Result: Potential match requiring analyst review
