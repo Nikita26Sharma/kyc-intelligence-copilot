@@ -1,0 +1,28 @@
+CASE-001
+
+Customer
+Aarav Mehta
+
+Customer type
+Individual
+
+Country
+India
+
+Identity document
+Passport
+
+Document status
+Valid
+
+Occupation
+Business owner
+
+Screening result
+Potential match
+
+Match confidence
+72%
+
+Important
+This is a fictional demonstration case created for the KYC Intelligence Copilot portfolio prototype. It does not represent a real customer or real screening result.
